@@ -1,0 +1,7 @@
+
+CLIENT INFO
+CLIENT ID	19983f62c91f416da697fc7d7c4060ad
+CLIENT SECRET	a09fee0d6eb04bcd98342b88b91c19d8
+WEBSITE URL	http://tboneandthefuzz.com/
+REDIRECT URI	http://tboneandthefuzz.com/
+This app pulls pix taken at a party that is DJed by TBONE AND THE FUZZ and hashtagged #tbone+fuzz and pulls them into a page using instafeed.js.

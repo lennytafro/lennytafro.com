@@ -1,4 +1,12 @@
-/* Welcome to Differin.com
+/*
+         _                        _         __            
+   ____ | |                      | |       / _|           
+  / __ \| | ___ _ __  _ __  _   _| |_ __ _| |_ _ __ ___   
+ / / _` | |/ _ \ '_ \| '_ \| | | | __/ _` |  _| '__/ _ \  
+| | (_| | |  __/ | | | | | | |_| | || (_| | | | | | (_) | 
+ \ \__,_|_|\___|_| |_|_| |_|\__, |\__\__,_|_| |_|  \___/  
+  \____/                     __/ |                        
+                            |___/                        
 */
 /* ==========================================================================
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
@@ -74,12 +82,64 @@ textarea {
 /* ==========================================================================
    Header Styler
    ========================================================================== */
+/* line 10, ../../../sass/_header.scss */
+.header-interior {
+  margin-top: 0px;
+  max-height: 20px;
+  background: #838383;
+  color: #60fd01;
+}
+/* line 15, ../../../sass/_header.scss */
+.header-interior h3 {
+  font-family: "Arial", "Helvetica", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+  margin-top: 0px;
+}
+
 /* ==========================================================================
    Footer Styler
    ========================================================================== */
 /* ==========================================================================
-   Global Styler
+   Home Page Styler
    ========================================================================== */
+/* ==========================================================================
+   Interior Page Styler - 3/22/2014 Event
+   ========================================================================== */
+/* line 5, ../../../sass/_page-20140322.scss */
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+/* line 13, ../../../sass/_page-20140322.scss */
+.container {
+  width: 920px;
+  margin: 0px auto;
+}
+/* line 16, ../../../sass/_page-20140322.scss */
+.container .headline-holder {
+  width: 66%;
+  margin: 0px auto;
+}
+/* line 19, ../../../sass/_page-20140322.scss */
+.container .headline-holder h1 {
+  display: inline-block;
+  margin-top: 2px;
+  margin-right: 10px;
+}
+/* line 23, ../../../sass/_page-20140322.scss */
+.container .headline-holder h1 .downplay {
+  font-size: 80%;
+  color: #c8c8c8;
+}
+/* line 27, ../../../sass/_page-20140322.scss */
+.container .headline-holder h1 .upsell {
+  font-weight: normal;
+  color: #CDFF38;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
