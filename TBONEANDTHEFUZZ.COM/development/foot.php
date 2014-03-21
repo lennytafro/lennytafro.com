@@ -6,7 +6,7 @@
         <script type="text/javascript">
             var feed = new Instafeed({
                 get: 'tagged',
-                tagName: 'tbonefuzz',
+                tagName: '<?= $hashtag ?>',
                 clientId: '19983f62c91f416da697fc7d7c4060ad',
                 resolution: 'low_resolution',
                 template: '<a href="{{link}}"><img src="{{image}}" /></a>'

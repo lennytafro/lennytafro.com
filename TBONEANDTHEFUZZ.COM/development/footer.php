@@ -1,1 +1,1 @@
-<div class="footer"><p>footer</p></div>
+<div class="footer"><p>&copy; 2014 www.tboneandthefuzz.com</p></div>

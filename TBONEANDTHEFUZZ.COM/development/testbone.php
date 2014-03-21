@@ -1,6 +1,6 @@
 
 <?php $titleadd = "KISS ME I'M SOBER - GSYP"; ?>
-<?php $hashtag = "tbonefuzz"; ?>
+<?php $hashtag = "testbonefuzz"; ?>
 
 <?php include 'head.php'; ?>
 

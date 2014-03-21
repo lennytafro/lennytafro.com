@@ -113,31 +113,45 @@ body {
   color: #fff;
 }
 
-/* line 13, ../../../sass/_page-20140322.scss */
+/* line 12, ../../../sass/_page-20140322.scss */
+a:link {
+  color: #60fd01;
+}
+
+/* line 15, ../../../sass/_page-20140322.scss */
+a:visited {
+  color: #CDFF38;
+}
+
+/* line 21, ../../../sass/_page-20140322.scss */
 .container {
-  width: 920px;
+  width: auto;
   margin: 0px auto;
 }
-/* line 16, ../../../sass/_page-20140322.scss */
+/* line 24, ../../../sass/_page-20140322.scss */
 .container .headline-holder {
   width: 66%;
   margin: 0px auto;
 }
-/* line 19, ../../../sass/_page-20140322.scss */
+/* line 27, ../../../sass/_page-20140322.scss */
 .container .headline-holder h1 {
   display: inline-block;
   margin-top: 2px;
   margin-right: 10px;
 }
-/* line 23, ../../../sass/_page-20140322.scss */
+/* line 31, ../../../sass/_page-20140322.scss */
 .container .headline-holder h1 .downplay {
   font-size: 80%;
   color: #c8c8c8;
 }
-/* line 27, ../../../sass/_page-20140322.scss */
+/* line 35, ../../../sass/_page-20140322.scss */
 .container .headline-holder h1 .upsell {
   font-weight: normal;
   color: #CDFF38;
+}
+/* line 39, ../../../sass/_page-20140322.scss */
+.container .headline-holder h1 .hashtag-name {
+  text-transform: uppercase;
 }
 
 /* ==========================================================================

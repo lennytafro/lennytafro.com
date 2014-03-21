@@ -9,9 +9,17 @@
 
    }
 
+   a:link{
+   		color:#60fd01;
+   }
+   a:visited{
+   		color:#CDFF38;
+   }
+
+
 
    	.container{
-   		width: 920px;
+   		width: auto;
    		margin: 0px auto;
    		.headline-holder{
    			width: 66%;
@@ -27,6 +35,9 @@
 		   			.upsell{
 		   				font-weight: normal;
 		   				color:#CDFF38;
+		   			}
+		   			.hashtag-name{
+		   				text-transform: uppercase;
 		   			}
 			   	}
    		}
